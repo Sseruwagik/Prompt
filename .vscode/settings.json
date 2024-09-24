@@ -1,0 +1,18 @@
+{
+    "liveServer.settings.port": 5501,
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "database-2024.c7y4iickmsdv.eu-north-1.rds.amazonaws.com",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "database",
+            "username": "admin",
+            "database": "metadata"
+        }
+    ]
+}
